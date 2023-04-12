@@ -25,9 +25,6 @@ This file contains unit tests for the ExtorrRGA class. The tests check the funct
 `test_data.py`
 This file contains unit tests for the process_data function in the data module. The tests check that the function correctly calculates the total pressure from the partial pressures of the detected gas species.
 
-# Summary
-The extorr.py file contains the ExtorrRGA class, which provides the core functionality for interfacing with the Extorr RGA using Python. The main.py file uses the ExtorrRGA class to control the scan parameters, acquire RGA data, and print the results. The data.py file provides a function that can be used to process the acquired RGA data. The test_extorr.py and test_data.py files contain unit tests for the ExtorrRGA class and the process_data function, respectively. Together, these files provide a comprehensive solution for interfacing with and controlling the Extorr RGA using Python.
-
 ---
 
 ## Installation
