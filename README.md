@@ -6,13 +6,13 @@ For questions or feature requests, please contact Jephthah Akene at 0xtachi@gmai
 
 # Table of Contents
 
-- Project Description
-- File Descriptions
-- Installation
-- Usage
-- Project Structure
-- Contributing
-- License
+- [Project Description](#project-description)
+- [File Descriptions](#file-descriptions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Description
 
