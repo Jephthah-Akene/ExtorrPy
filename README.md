@@ -35,7 +35,6 @@ This file contains unit tests for the ExtorrRGA class. The tests check the funct
 `test_data.py`
 This file contains unit tests for the process_data function in the data module. The tests check that the function correctly calculates the total pressure from the partial pressures of the detected gas species.
 
----
 
 ## Installation
 To install the project, first clone the repository to your local machine:
@@ -51,7 +50,6 @@ Install the project dependencies using pip:
 
 `pip install -r requirements.txt`
 
----
 
 ## Usage
 To run this program, you will need to install the required dependencies listed in the requirements.txt file by running the command pip install -r requirements.txt.
@@ -71,7 +69,6 @@ You can then use the methods of the ExtorrRGA class to control the RGA and acqui
 To retrieve the acquired RGA data:
 `data = rga.get_data()`
 
----
 
 ## Project Structure
 
@@ -91,13 +88,10 @@ The project has the following file structure:
 
 The extorr.py module contains the ExtorrRGA class for interfacing with the Extorr software's ActiveX automation server. The data.py module contains functions for processing and analyzing RGA data. The tests directory contains test files for each module.
 
----
 
 ## Contributing
 Contributions to the project are welcome! If you find a bug or have an idea for a new feature, please submit an issue on the project's GitHub page. If you'd like to contribute code, please fork the repository and submit a pull request with your changes.
 
-
----
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
