@@ -4,6 +4,16 @@ This project provides a Python interface for controlling and acquiring data from
 
 For questions or feature requests, please contact Jephthah Akene at 0xtachi@gmail.com. As an independent researcher, I built this project purely for the joy of creating something both enjoyable and practical. If you love to tinker and build innovative control systems, feel free to email me!
 
+# Table of Contents
+
+- Project Description
+- File Descriptions
+- Installation
+- Usage
+- Project Structure
+- Contributing
+- License
+
 # Project Description
 
 This project aims to interface with an Extorr Residual Gas Analyzer (RGA) using Python. The Extorr RGA is a scientific instrument used for gas analysis, particularly in vacuum systems. It can detect and measure the partial pressures of various gas species at different mass-to-charge ratios. The objective of this project is to develop a software application that can interface with the Extorr RGA to control the scan parameters, acquire RGA data, and process the acquired data.
