@@ -37,6 +37,7 @@ This file contains unit tests for the process_data function in the data module. 
 
 
 ## Installation
+
 To install the project, first clone the repository to your local machine:
 
 `git clone https://github.com/yourusername/extorr-rga-python-interface.git`
@@ -52,6 +53,7 @@ Install the project dependencies using pip:
 
 
 ## Usage
+
 To run this program, you will need to install the required dependencies listed in the requirements.txt file by running the command pip install -r requirements.txt.
 
 Once the dependencies are installed, you can run the program by running the main.py script in the terminal using the command python main.py.
